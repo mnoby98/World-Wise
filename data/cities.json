@@ -1,0 +1,70 @@
+{
+  "cities": [
+    {
+      "cityName": "Villarrubia de los Ojos",
+      "country": "Spain",
+      "date": "2023-08-23T13:01:21.830Z",
+      "notes": "",
+      "position": {
+        "lat": "39.19820534889482",
+        "lng": "-3.6254882812500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Bodonal de la Sierra",
+      "country": "Spain",
+      "date": "2023-08-23T13:02:12.027Z",
+      "notes": "",
+      "position": {
+        "lat": "38.16911413556086",
+        "lng": "-6.5478515625"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Villavieja de Yeltes",
+      "country": "Spain",
+      "date": "2023-08-23T14:29:44.797Z",
+      "notes": "",
+      "position": {
+        "lat": "40.863679665481676",
+        "lng": "-6.525878906250001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Cordoba",
+      "country": "Spain",
+      "date": "2023-08-23T14:35:17.428Z",
+      "notes": "",
+      "position": {
+        "lat": "37.78808138412046",
+        "lng": "-4.658203125000001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Guadalajara",
+      "country": "Spain",
+      "date": "2023-11-08T11:22:49.314Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.46507463686286",
+        "lng": "-3.1311035156250004"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Le Monestier",
+      "country": "France",
+      "date": "2023-11-08T11:23:34.600Z",
+      "notes": "",
+      "position": {
+        "lat": "45.58493056695575",
+        "lng": "3.6694335937500004"
+      },
+      "id": 6
+    }
+  ]
+}
